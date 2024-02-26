@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @Spirol18
 - 👀 I’m always upto learning new things related to programming.
-- 🌱 I’m currently learning Algorithm & Complexity.
+- 🌱 I’m currently learning Typescript.
 - 💞️ I’m looking to collaborate on any .
 - 📫 You can reach me through my email sufalp21@gmail.com
 
