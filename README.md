@@ -1,4 +1,4 @@
-## Hi there this sufal poudel
+## Hi there this sufal paudel
 
 - 👋 Hi, I’m @Spirol18
 - 👀 I’m always upto learning new things related to programming.
